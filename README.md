@@ -17,7 +17,6 @@ cd cryptos
 Instala las dependencias:
 
 npm install
-Uso
 
 Scripts en TypeScript
 Para ejecutar los scripts en TypeScript, utiliza el siguiente comando:
