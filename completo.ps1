@@ -23,7 +23,7 @@ function Manage-VpnConnection {
 
         # Verificar si la conexión fue exitosa
         Write-Output "resultado: "+$result
-        if ($result -match "Conectado correctamente a VPN") {
+        if ($result -match "Conectado correctamente a VPN" -or $result -match "Successfully") {
             Write-Output "Conexión a la VPN exitosa."
             # Ejecutar el script (asumiendo que está en el mismo directorio)
             &.\crypto.ps1
