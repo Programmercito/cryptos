@@ -1,12 +1,13 @@
+## SCRAPING para CRYPTOS DE PRUEBA
 
-#Cryptos
+# Cryptos
 Este repositorio contiene herramientas y scripts para el manejo y análisis de criptomonedas. Está desarrollado principalmente en TypeScript y PowerShell.
 
-#Tecnologías
+# Tecnologías
 TypeScript (66.2%): Utilizado para el desarrollo de la lógica principal y scripts de manejo de criptomonedas.
 PowerShell (33.8%): Usado para automatización y tareas del sistema.
 
-#Instalación
+# Instalación
 Clona el repositorio:
 
 git clone https://github.com/Programmercito/cryptos.git
